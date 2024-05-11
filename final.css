@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+    margin: 20px 15px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h1 span {
+    color: darkred;
+}
+
+.form {
+    margin: auto;
+    padding: 8px 6px 8px 6px;
+    background-color: #f2f2f2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid grey;
+    width: 500px;
+    justify-self: center;
+}
+
+input {
+    width: 96%;
+    height: 30px;
+    border-color: darkgray;
+}
+
+#name {
+    width: 42.775%;
+}
+
+fieldset {
+    width: 96%;
+    height: auto;
+}
+
+#Gender {
+    margin-top: 0%;
+    width: auto;
+    height: auto;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+label {
+    font-weight: 500;
+}
+
+button {
+    height: 30px;
+    border: 2px solid black;
+    font-weight: 700;
+    background-color: darkgrey;
+}
+
+.login {
+    font-size: 15px;
+    font-weight: 500;
+}
